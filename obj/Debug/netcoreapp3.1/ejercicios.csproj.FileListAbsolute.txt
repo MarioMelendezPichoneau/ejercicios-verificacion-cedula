@@ -1,0 +1,13 @@
+C:\Users\Mario MP\source\repos\ejercicios\bin\Debug\netcoreapp3.1\ejercicios.exe
+C:\Users\Mario MP\source\repos\ejercicios\bin\Debug\netcoreapp3.1\ejercicios.deps.json
+C:\Users\Mario MP\source\repos\ejercicios\bin\Debug\netcoreapp3.1\ejercicios.runtimeconfig.json
+C:\Users\Mario MP\source\repos\ejercicios\bin\Debug\netcoreapp3.1\ejercicios.runtimeconfig.dev.json
+C:\Users\Mario MP\source\repos\ejercicios\bin\Debug\netcoreapp3.1\ejercicios.dll
+C:\Users\Mario MP\source\repos\ejercicios\bin\Debug\netcoreapp3.1\ejercicios.pdb
+C:\Users\Mario MP\source\repos\ejercicios\obj\Debug\netcoreapp3.1\ejercicios.csprojAssemblyReference.cache
+C:\Users\Mario MP\source\repos\ejercicios\obj\Debug\netcoreapp3.1\ejercicios.AssemblyInfoInputs.cache
+C:\Users\Mario MP\source\repos\ejercicios\obj\Debug\netcoreapp3.1\ejercicios.AssemblyInfo.cs
+C:\Users\Mario MP\source\repos\ejercicios\obj\Debug\netcoreapp3.1\ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Mario MP\source\repos\ejercicios\obj\Debug\netcoreapp3.1\ejercicios.dll
+C:\Users\Mario MP\source\repos\ejercicios\obj\Debug\netcoreapp3.1\ejercicios.pdb
+C:\Users\Mario MP\source\repos\ejercicios\obj\Debug\netcoreapp3.1\ejercicios.genruntimeconfig.cache
